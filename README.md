@@ -162,7 +162,11 @@
   &emsp;
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=plastic&logo=android-studio&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-6B4EFF.svg?style=plastic"></a>
+  &emsp;
+    <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-%23FF9800.svg?style=plastic&logo=sublimetext&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000.svg?style=plastic"></a>
 </p>
 
 <br>
@@ -239,7 +243,7 @@ An intelligent mobile app helping users with dietary restrictions identify incom
 
 **Tech Stack:** Flutter • Dart • Gemini API • Google ML Kit • SQLite • Firebase
 
-[🔗 View Project](https://github.com/VCTorres-Dev/ocr_app_modulo) | [📱 Download App](#)
+[📱 Download App](https://play.google.com/store/apps/details?id=cl.safebite.app)
 
 </div>
 
